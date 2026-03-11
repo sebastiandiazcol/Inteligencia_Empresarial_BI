@@ -1,10 +1,12 @@
 # Documentos Inteligencia Empresarial (BI) - Proyecto MarkIt
 
-Este repositorio contiene las plantillas clave necesarias para la fase de planificación de proyectos de Inteligencia Empresarial (BI), ordenadas por el flujo natural de trabajo:
+Este repositorio contiene las plantillas clave necesarias para la fase de planificación de proyectos de Inteligencia Empresarial (BI), ordenadas por el flujo natural de trabajo. **Cada documento ha sido traducido al español y se ofrece tanto en formato Word (`.docx`) como en texto plano Markdown (`.md`) para edición directa.**
 
-1. **`1_Documento_de_Requisitos_de_las_Partes_Interesadas.docx`**
-2. **`2_Documento_de_Requisitos_del_Proyecto.docx`**
-3. **`3_Documento_de_Estrategia.docx`**
+Además, encontrarás una carpeta **`/Ejemplos`** con las plantillas ya resueltas (y pasadas a Markdown) para el caso de estudio adjunto de "MarkIt".
+
+1. **`1_Documento_de_Requisitos_de_las_Partes_Interesadas.md`** / `.docx`
+2. **`2_Documento_de_Requisitos_del_Proyecto.md`** / `.docx`
+3. **`3_Documento_de_Estrategia.md`** / `.docx`
 
 ## 📌 Contexto del Proyecto: MarkIt
 
@@ -45,7 +47,7 @@ El objetivo del proyecto es entender cómo usan la plataforma tanto compradores 
 Siga el siguiente orden para completar las plantillas de planificación:
 
 ### Paso 1: Documento de Requisitos de las Partes Interesadas
-> Archivo: `1_Documento_de_Requisitos_de_las_Partes_Interesadas.docx`
+> Archivo: `1_Documento_de_Requisitos_de_las_Partes_Interesadas.md`
 
 Utilícelo para captar las peticiones de los interesados y comprender sus necesidades. Debe responder a:
 - **Problema empresarial:** ¿Cuál es la pregunta o problema principal?
@@ -54,7 +56,7 @@ Utilícelo para captar las peticiones de los interesados y comprender sus necesi
 - **Requisitos principales:** ¿Qué necesita la herramienta para tener éxito?
 
 ### Paso 2: Documento de Requisitos del Proyecto
-> Archivo: `2_Documento_de_Requisitos_del_Proyecto.docx`
+> Archivo: `2_Documento_de_Requisitos_del_Proyecto.md`
 
 Contiene los detalles técnicos y de gestión del proyecto:
 - **Propósito:** Por qué la empresa invierte en esto.
@@ -66,7 +68,7 @@ Contiene los detalles técnicos y de gestión del proyecto:
 - **Plan de despliegue:** Alcance temporal de 4 semanas, rollback, y momentos de medición.
 
 ### Paso 3: Documento de Estrategia
-> Archivo: `3_Documento_de_Estrategia.docx`
+> Archivo: `3_Documento_de_Estrategia.md`
 
 Es el acuerdo colaborativo sobre los entregables y la métricas funcionales de BI.
 - Aquí define la limitación de datos, los cálculos necesarios de métricas, y las suposiciones de datos finales.
